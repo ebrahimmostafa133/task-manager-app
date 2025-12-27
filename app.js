@@ -1,4 +1,3 @@
-// app.js
-function addTask(task) {
-  console.log("Task added:", task);
+function addTask(task){
+console.log("task added",task);
 }
